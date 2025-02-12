@@ -1,6 +1,7 @@
 ## Hi there 👋, This is Subi Suresh
 
-Software Developer and Aspiring AI Enthusiast
+Backend C++ Developer and Aspiring AI Enthusiast
+
 🔭 Currently self-learning AI technologies, focusing on TensorRT, OpenCV, ONNX Runtime, and CUDA for computer vision and AI algorithms!
 🌱 Passionate about applying my C++ skills to solve real-world problems and dive deep into AI-driven solutions.
 💬 Ask me about C++, Unix, Networking, Software Engineering, and AI basics.
