@@ -82,3 +82,12 @@ Feel free to connect with me on:
 
 ### **Vulnerability Tools**
 ![Black Duck CVE](https://img.shields.io/badge/-Black%20Duck%20CVE-2C2D2F?style=flat&logo=blackduck&logoColor=white)
+
+### **Hardware Acceleration & HPC**
+![HIP Framework]()
+![HPC]()
+![AMD Instinct GPU]https://github.com/psubi10/HPC-HIP-AMD-Instinct-GPU-MatrixMultiplication/blob/main/AMB%20instinct.jpg
+
+
+
+
